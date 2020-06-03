@@ -1,0 +1,12 @@
+name: Project
+title: Project
+username:
+account: rodriguez-analysis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1421520
+bundleId: 2564366
+url: https://rodriguez-analysis.shinyapps.io/Project/
+when: 1572916459.60333
+asMultiple: FALSE
+asStatic: FALSE
