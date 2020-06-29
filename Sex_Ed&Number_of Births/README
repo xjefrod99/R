@@ -1,5 +1,6 @@
 Created a shiny app with visualizations showing the number of births in the US and mandatory sexual health education laws using ggplot.
 I differentiated every state's mandatory sexual health education with a different color and added a circle on every state in which the
 radius is representative of the percentage of total births in that state. Moreover, the viewer can see Racial and Ethnic Diversity of births.
+The data was gathered from CDC website and shows 2017 data.
 
 https://rodriguez-analysis.shinyapps.io/Project/
